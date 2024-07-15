@@ -2,10 +2,10 @@
 As an experienced software developer, my portfolio highlights:
 
 -Interactive Website: Developed a fully responsive and engaging site.<br>
--Single Page Application (SPA): Created seamless user experiences with dynamic updates.
--Responsive Design: Crafted optimized layouts for various devices.
--JavaScript Games: Implemented browser-based games showcasing problem-solving and creativity.
--Form Validation: Enhanced usability and security through robust JavaScript validation.
+-Single Page Application (SPA): Created seamless user experiences with dynamic updates.<br>
+-Responsive Design: Crafted optimized layouts for various devices.<br>
+-JavaScript Games: Implemented browser-based games showcasing problem-solving and creativity.<br>
+-Form Validation: Enhanced usability and security through robust JavaScript validation.<br>
 
 
 Live Demo - https://divyaniurkude.github.io/MyPortfolio/
