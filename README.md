@@ -12,29 +12,29 @@ LinkedIn-https://www.linkedin.com/in/divyani-urkude/
 
 # Output - 1
 
-![Screenshot (419)](https://github.com/divyaniurkude/COVID-19-WEBSITE/blob/main/Screenshot%20(419).png)
+![Screenshot (1)](https://github.com/divyaniurkude/MyPortfolio/blob/main/MyPortfolio/Screenshot%20(1).png)
 
 # Output - 2
 
-![Screenshot (420)](https://github.com/divyaniurkude/COVID-19-WEBSITE/blob/main/Screenshot%20(420).png)
+![Screenshot (2)](https://github.com/divyaniurkude/MyPortfolio/blob/main/MyPortfolio/Screenshot%20(2).png)
 
 # Output - 3
 
-![Screenshot (421)](https://github.com/divyaniurkude/COVID-19-WEBSITE/blob/main/Screenshot%20(421).png)
+![Screenshot (3)](https://github.com/divyaniurkude/MyPortfolio/blob/main/MyPortfolio/Screenshot%20(3).png)
 
 
 # Output - 4
 
-![Screenshot (422)](https://github.com/divyaniurkude/COVID-19-WEBSITE/blob/main/Screenshot%20(422).png)
+![Screenshot (4)](https://github.com/divyaniurkude/MyPortfolio/blob/main/MyPortfolio/Screenshot%20(4).png)
 
 # Output - 5
 
-![Screenshot (423)](https://github.com/divyaniurkude/COVID-19-WEBSITE/blob/main/Screenshot%20(423).png)
+![Screenshot (5)](https://github.com/divyaniurkude/MyPortfolio/blob/main/MyPortfolio/Screenshot%20(5).png)
 
 # Output - 6
 
-![Screenshot (424)](https://github.com/divyaniurkude/COVID-19-WEBSITE/blob/main/Screenshot%20(424).png)
+![Screenshot (6)](https://github.com/divyaniurkude/MyPortfolio/blob/main/MyPortfolio/Screenshot%20(6).png)
 
 # Output - 7
 
-![Screenshot (425)](https://github.com/divyaniurkude/COVID-19-WEBSITE/blob/main/Screenshot%20(425).png)
+![Screenshot (7)](https://github.com/divyaniurkude/MyPortfolio/blob/main/MyPortfolio/Screenshot%20(7).png)
